@@ -1,10 +1,10 @@
-<img src="iconfont.gif" width="320" align="right" hspace="20">
-
 ### IconFontApp
 
 Demo application for using IconFont on Android platform.
 
 [See the description of this implementation on my blog](http://hujiaweibujidao.github.io/blog/2016/06/25/Ways-to-Use-Icons-on-Android-2/)
+
+![img](iconfont.gif)
 
 ### Core Code
 
