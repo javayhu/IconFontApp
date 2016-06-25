@@ -8,11 +8,11 @@ Demo application for using IconFont on Android platform.
 
 ### Thanks
 
-1.[Iconify](https://github.com/JoanZapata/android-iconify)
-2.[Fontello](https://github.com/fontello/fontello)
-3.[IcoMoon](https://icomoon.io/app/)
-4.[IconFont](http://www.iconfont.cn/)
-
+1.[Iconify](https://github.com/JoanZapata/android-iconify)     
+2.[Fontello](https://github.com/fontello/fontello)      
+3.[IcoMoon](https://icomoon.io/app/)     
+4.[IconFont](http://www.iconfont.cn/)       
+ 
 ### License
 
 ```
