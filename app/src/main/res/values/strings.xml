@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iconfontapp</string>
+
+    <string name="text_iconfont_utf8">&#xe601; &#xe602; &#xe603; &#xe606;</string>
+    <string name="text_iconfont_unicode">   </string>
+
+</resources>
