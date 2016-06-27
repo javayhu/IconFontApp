@@ -8,7 +8,7 @@ Demo application for using IconFont on Android platform.
 
 ### Core Code
 
-```
+```java
 Iconify.with(new FontelloModule());
 Iconify.with(new IcomoonModule());
 
